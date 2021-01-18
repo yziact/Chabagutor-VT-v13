@@ -1,3 +1,6 @@
 # tests
 # TODO: check https://github.com/OCA/maintainer-quality-tools/pull/646
 freezegun
+cubiscan
+mock
+odoo_test_helper
