@@ -4,3 +4,4 @@ freezegun
 cubiscan
 mock
 odoo_test_helper
+raven
